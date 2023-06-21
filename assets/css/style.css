@@ -1,0 +1,44 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(72, 111, 122);
+}
+/*------------texto------------*/
+.texto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1.4em;
+}
+ul {
+    font-size: 1.2em;
+}
+/*------------------------------*/
+.caja-container {
+    display: flex;
+    justify-content: center;
+}
+
+.caja {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+  }
+
+div {
+    background-color: rgb(61, 61, 61);
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(72, 111, 122);
+}
+
+
+
